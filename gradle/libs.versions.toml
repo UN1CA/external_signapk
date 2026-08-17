@@ -6,7 +6,7 @@ apksig = "9.3.1"
 # Bouncy Castle: https://www.bouncycastle.org/
 bouncycastle = "1.85"
 # Conscrypt: https://github.com/google/conscrypt
-conscrypt = "2.6.1"
+conscrypt = "2.6.2"
 
 [libraries]
 apksig = { group = "com.android.tools.build", name = "apksig", version.ref = "apksig" }
